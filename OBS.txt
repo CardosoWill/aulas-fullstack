@@ -1,0 +1,6 @@
+Entendi como fazer mas foi errado.
+
+Eu fiz o commit na main, mas o certo a se fazer é cria a branch dev, faz um git init e coloca todos la dentro, comita, e faz um push e manda para o git
+
+
+:(
